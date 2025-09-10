@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.0",
-  "update_date": "09/09/2025",
-  "download_url": "https://drive.google.com/file/d/1Ik8BK1I6-Wo0aCR3lNHSukxHj3DfcaAQ/view?usp=drive_link",
-  "changelog": "Thay đổi giao diện - thêm menu"
+  "version": "v1.5.1",
+  "update_date": "10/09/2025",
+  "download_url": "https://drive.google.com/file/d/1EqP7fGImmQ7WaRw2f6k8dgTl6v1EFKBg/view?usp=drive_link",
+  "changelog": "Fix lỗi xung đột UI gây crash app"
 }
