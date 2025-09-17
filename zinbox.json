@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.1",
-  "update_date": "10/09/2025",
-  "download_url": "https://drive.google.com/file/d/1EqP7fGImmQ7WaRw2f6k8dgTl6v1EFKBg/view?usp=drive_link",
-  "changelog": "Fix lỗi xung đột UI gây crash app"
+  "version": "v1.5.3",
+  "update_date": "16/09/2025",
+  "download_url": "https://drive.google.com/file/d/1AOa-ZW2LZvE0FqT4PknakE01-1GvKadW/view?usp=drive_link",
+  "changelog": "Chạy đa tài khoản 1 thời điểm, lưu tích chọn các cột giá trị"
 }
