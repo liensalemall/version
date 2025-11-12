@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.11",
-  "update_date": "04/11/2025",
-  "download_url": "https://drive.google.com/file/d/173hlBfooMsBYazKEBI5WIrnfu3mLkmBz/view?usp=sharing",
-  "changelog": "Fix lỗi gửi tin nhắn và một vài lỗi khác"
+  "version": "v1.5.13",
+  "update_date": "12/11/2025",
+  "download_url": "https://drive.google.com/file/d/1r9zNNxhb6C7REgCkSOowoUkL59oZVK_P/view?usp=sharing",
+  "changelog": "Sửa lỗi, thêm giới hạn tin nhắn/ngày cho tài khoản"
 }
