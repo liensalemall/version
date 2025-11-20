@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.14",
-  "update_date": "18/11/2025",
-  "download_url": "https://drive.google.com/file/d/1NWkLeoVdPimX-kP-XKh7WfpJ1ccaCVDY/view",
-  "changelog": "Thêm tính năng đổi thiết bị mỗi 30 ngày "
+  "version": "v1.6.0",
+  "update_date": "20/11/2025",
+  "download_url": "https://drive.google.com/file/d/1AjOVQ_sA4kgnwXOrklG12DuP51rRtH1u/view",
+  "changelog": "Thêm tính năng đổi tên khách hàng + SDT khi gửi tin nhắn tới sdt, chiến dịch gửi tin nhắn tới sdt"
 }
