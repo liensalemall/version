@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.0",
-  "update_date": "20/11/2025",
-  "download_url": "https://drive.google.com/file/d/1AjOVQ_sA4kgnwXOrklG12DuP51rRtH1u/view",
-  "changelog": "Thêm tính năng đổi tên khách hàng + SDT khi gửi tin nhắn tới sdt, chiến dịch gửi tin nhắn tới sdt"
+  "version": "v1.6.2",
+  "update_date": "25/11/2025",
+  "download_url": "https://drive.google.com/file/d/1EMJpwUouSx5d2_VCvEFSF8piwXkVOnGO/view",
+  "changelog": "Thêm tính năng gửi tin nhắn/ mời vào nhóm theo tag"
 }
