@@ -1,6 +1,5 @@
 {
-  "version": "v2.2.1",
-  "update_date": "15/04/2026",
-  "download_url": "https://drive.google.com/file/d/1k9AFYJtePpZ93365dC5jjU7STvubrDGY/view?usp=drive_link",
-  "changelog": "Sửa lỗi, thêm các định dạng proxy và app chạy ngầm hệ thống"
-}
+  "version": "v2.2.2",
+  "update_date": "17/04/2026",
+  "download_url": "https://drive.google.com/file/d/1Lg9oQ5Tw50BXVYxNv4r2pf3pw0-0B43a/view?usp=drive_link",
+  "changelog": "Sửa lỗi và cải thiện hiệu năng"
