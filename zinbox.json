@@ -1,5 +1,5 @@
 {
-  "version": "v2.2.5",
-  "update_date": "05/05/2026",
-  "download_url": "https://drive.google.com/file/d/1hShv7Tz58f0x6HL2kR7idKAaNB4iDjNC/view?usp=drive_link",
-  "changelog": "Sửa lỗi thông báo log và cải thiện hiệu năng"
+  "version": "v2.2.6",
+  "update_date": "12/05/2026",
+  "download_url": "https://drive.google.com/file/d/1MPQeGK9WXYAXWUYnpDZPDbJk9B2TwT_a/view?usp=drive_link",
+  "changelog": "Sửa lỗi chiến dịch : gửi tin nhắn tới nhóm được gắn tag"
