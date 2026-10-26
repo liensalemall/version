@@ -1,6 +1,6 @@
 {
-  "version": "v2.2.9",
-  "update_date": "19/06/2026",
+  "version": "v2.3.0",
+  "update_date": "26/10/2026",
   "download_url": "https://drive.google.com/drive/folders/1F0l3F-F-VYy1sR_kgswIMQ5iB0vgnB6S?hl=vi",
-  "changelog": "Update : Quét thành viên nhóm ẩn không cần tham gia"
+  "changelog": "Fix : Lọc số điện thoại trùng khi nạp file, không còn bỏ sót số khi gửi tin theo danh sách SĐT"
 }
